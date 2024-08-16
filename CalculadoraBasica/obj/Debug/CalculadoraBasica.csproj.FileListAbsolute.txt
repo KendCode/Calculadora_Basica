@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
